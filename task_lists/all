@@ -1,0 +1,19 @@
+[
+    ["mabe22", "approach", "A"],
+    ["mabe22", "nose_nose_contact", "B"],
+    ["mabe22", "nose_genital_contact", "C"],
+    ["mabe22", "nose_ear_contact", "D"],
+    ["mabe22", "chase", "E"],
+    ["mabe22", "watching", "F"],
+    ["maritime_surveillance", "a", "G"],
+    ["shibuya_one", "south_to_east", "H"],
+    ["shibuya_one", "west_to_south", "I"],
+    ["shibuya_one", "north_to_west", "J"],
+    ["shibuya_one", "east_to_north", "K"],
+    ["warsaw_one", "eastward_3_high_accel", "L"],
+    ["warsaw_one", "eastward_4_high_accel", "M"],
+    ["warsaw_two", "southward_1_upper_westward_2_rightonred", "N"],
+    ["warsaw_two", "eastward_3_passing_eastward_4", "O"],
+    ["warsaw_two", "eastward_4_passing_eastward_3", "P"],
+    ["warsaw_two", "parallel_eastward_4_eastward_3", "Q"]
+]

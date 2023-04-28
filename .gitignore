@@ -1,0 +1,9 @@
+conda/
+datasets/
+datasets_raw/
+lstm_models/
+lstm_results/
+quivr_results/
+transformer_models/
+transformer_results/
+tex_output/
